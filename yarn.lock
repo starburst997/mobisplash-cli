@@ -2992,7 +2992,7 @@ mkdirp@^0.5.0, mkdirp@^0.5.1:
 
 "mobisplash@ssh://git@github.com:starburst997/mobisplash":
   version "0.2.2"
-  resolved "ssh://git@github.com:starburst997/mobisplash#b3cfc5fc146bcc18516adfb9333bc122fb0e4d05"
+  resolved "ssh://git@github.com:starburst997/mobisplash#e83e20d3fe23b35cb956ca71ec7c5faf1d43e73c"
   dependencies:
     gm "^1.21.1"
     mkdirp "^0.5.1"
